@@ -1,2 +1,2 @@
-# cesr-acdc-proof
+# CESR-ACDC-Proof Specification
 CESR-Proof Format for ACDCs
